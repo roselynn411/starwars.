@@ -1,0 +1,25 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "Instruction for running the webpage",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roselynn411/starwars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roselynn411/starwars/issues"
+  },
+  "homepage": "https://github.com/roselynn411/starwars#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0",
+    "swapi-node": "^0.7.0"
+  }
+}
