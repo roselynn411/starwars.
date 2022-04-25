@@ -1,3 +1,9 @@
+h3 {
+  background-color: #333;
+  color : white;
+  font-size: 50px;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
